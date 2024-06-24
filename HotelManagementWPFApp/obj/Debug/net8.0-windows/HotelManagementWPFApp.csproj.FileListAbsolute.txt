@@ -106,3 +106,4 @@ D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\HotelMa
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\HotelManagementWPFApp\obj\Debug\net8.0-windows\HotelManagementWPFApp.pdb
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\HotelManagementWPFApp\obj\Debug\net8.0-windows\HotelManagementWPFApp.genruntimeconfig.cache
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\HotelManagementWPFApp\obj\Debug\net8.0-windows\ref\HotelManagementWPFApp.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\HotelManagementWPFApp\obj\Debug\net8.0-windows\HotelManagementWPFApp.sourcelink.json

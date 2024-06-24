@@ -1,0 +1,14 @@
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.AssemblyReference.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\bin\Debug\net8.0\BussinessObjects.runtimeconfig.json
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\BussinessObjects.genruntimeconfig.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll

@@ -1,0 +1,16 @@
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\bin\Debug\net8.0\appsettings.json
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\bin\Debug\net8.0\BussinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\bin\Debug\net8.0\BussinessObjects.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment2\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
